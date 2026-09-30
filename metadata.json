@@ -1,0 +1,11 @@
+{
+  "name": "MESAvision — Carta Digital Inteligente",
+  "description": "Plataforma de carta digital inteligente para restaurantes con importación PDF mediante Gemini, videos reales por plato, experiencia AR 3D 'Ver en mi mesa', QR/NFC por mesa y arquitectura offline-first.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
